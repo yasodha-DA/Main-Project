@@ -9,6 +9,7 @@ Objectives
 - Suggest data-driven strategies to improve economic equity, workforce planning, and policy-making.
 
 Descriptive Analysis (What happened?) 
+
 • Analysed individuals across age, education, workclass, and income categories. 
 
 • Higher education levels generally align with higher income. 
@@ -18,6 +19,7 @@ Descriptive Analysis (What happened?)
 • Most individuals fall into mid-age groups with moderate working hours. 
 
 Diagnostic Analysis (Why did it happen?) 
+
 • Higher income among educated individuals due to better job opportunities. 
 
 • Longer working hours for males linked to occupational roles and workclass 
@@ -28,6 +30,7 @@ distribution.
 • Capital gain/loss concentrated among fewer individuals due to investment patterns. 
 
 Predictive Analysis (What will happen?) 
+
 • Individuals with higher education and longer working hours are more likely to fall 
 into higher income categories. 
 
@@ -38,6 +41,7 @@ into higher income categories.
 • Mid-age individuals will remain the largest workforce segment. 
 
 Prescriptive Analysis (What should be done?) 
+
 • Promote education and skill development to improve income opportunities. 
 
 • Balance work hours across genders by encouraging flexible work policies. 
@@ -48,6 +52,7 @@ Prescriptive Analysis (What should be done?)
 groups for career growth. 
 
 Conclusion: 
+
 This dashboard analyzes workforce and demographic data to uncover income drivers 
 Education , age ,    workclass , weekly hours and capital gain/loss strongly influence earnings. 
 Interactive charts reveal disparities across gender, relationship status and native country. 
