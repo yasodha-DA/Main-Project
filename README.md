@@ -10,45 +10,45 @@ Objectives
 
 Descriptive Analysis (What happened?) 
 
-• Analysed individuals across age, education, workclass, and income categories. 
+- Analysed individuals across age, education, workclass, and income categories. 
 
-• Higher education levels generally align with higher income. 
+- Higher education levels generally align with higher income. 
 
-• Males tend to work longer hours per week than females. 
+- Males tend to work longer hours per week than females. 
 
-• Most individuals fall into mid-age groups with moderate working hours. 
+- Most individuals fall into mid-age groups with moderate working hours. 
 
 Diagnostic Analysis (Why did it happen?) 
 
-• Higher income among educated individuals due to better job opportunities. 
+- Higher income among educated individuals due to better job opportunities. 
 
-• Longer working hours for males linked to occupational roles and workclass 
+- Longer working hours for males linked to occupational roles and workclass 
 distribution. 
 
-• Mid-age groups dominate workforce participation due to career stability. 
+- Mid-age groups dominate workforce participation due to career stability. 
 
-• Capital gain/loss concentrated among fewer individuals due to investment patterns. 
+- Capital gain/loss concentrated among fewer individuals due to investment patterns. 
 
 Predictive Analysis (What will happen?) 
 
-• Individuals with higher education and longer working hours are more likely to fall 
+- Individuals with higher education and longer working hours are more likely to fall 
 into higher income categories. 
 
-• Demand for skilled jobs will continue to favor educated groups. 
+- Demand for skilled jobs will continue to favor educated groups. 
 
-• Income inequality may persist due to differences in workclass and capital gains. 
+- Income inequality may persist due to differences in workclass and capital gains. 
 
-• Mid-age individuals will remain the largest workforce segment. 
+- Mid-age individuals will remain the largest workforce segment. 
 
 Prescriptive Analysis (What should be done?) 
 
-• Promote education and skill development to improve income opportunities. 
+- Promote education and skill development to improve income opportunities. 
 
-• Balance work hours across genders by encouraging flexible work policies. 
+- Balance work hours across genders by encouraging flexible work policies. 
 
-• Provide financial literacy programs to broaden capital gain opportunities. 
+- Provide financial literacy programs to broaden capital gain opportunities. 
 
-• Tailor workforce policies to support mid-age employees while preparing younger 
+- Tailor workforce policies to support mid-age employees while preparing younger 
 groups for career growth. 
 
 Conclusion: 
